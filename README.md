@@ -6,7 +6,10 @@ reading daily zodiac horoscopes aloud.
 Sourced from [freehoroscopeapi.com](https://freehoroscopeapi.com/) - a
 free, open REST API, no API key required.
 
-[![Tests](https://github.com/andlo/ovos-skill-horoscope-readings/actions/workflows/test.yml/badge.svg)](https://github.com/andlo/ovos-skill-horoscope-readings/actions/workflows/test.yml)
+It is part of [Emkay](https://github.com/emkay-voice/emkay), OpenVoiceOS in
+the browser, and works on any [OpenVoiceOS](https://openvoiceos.org).
+
+[![Build](https://github.com/emkay-voice/ovos-skill-horoscope-readings/actions/workflows/publish.yml/badge.svg)](https://github.com/emkay-voice/ovos-skill-horoscope-readings/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/ovos-skill-horoscope-readings.svg)](https://pypi.org/project/ovos-skill-horoscope-readings/)
 
 > **This skill has no standalone voice interface.** It registers no
